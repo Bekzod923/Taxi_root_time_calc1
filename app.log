@@ -1,0 +1,56 @@
+2025-05-17 22:16:51,402 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.68.64:5000
+2025-05-17 22:16:51,403 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-17 22:16:51,405 - INFO -  * Restarting with stat
+2025-05-17 22:16:52,420 - WARNING -  * Debugger is active!
+2025-05-17 22:16:52,423 - INFO -  * Debugger PIN: 484-890-003
+2025-05-17 22:18:56,684 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.68.64:5000
+2025-05-17 22:18:56,685 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-17 22:18:56,687 - INFO -  * Restarting with stat
+2025-05-17 22:18:57,572 - WARNING -  * Debugger is active!
+2025-05-17 22:18:57,574 - INFO -  * Debugger PIN: 484-890-003
+2025-05-17 22:19:31,418 - INFO - 127.0.0.1 - - [17/May/2025 22:19:31] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-05-17 22:19:31,507 - INFO - 127.0.0.1 - - [17/May/2025 22:19:31] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2025-05-17 22:19:31,689 - INFO - 127.0.0.1 - - [17/May/2025 22:19:31] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2025-05-17 22:19:32,047 - INFO - 127.0.0.1 - - [17/May/2025 22:19:32] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=ikZnSbT3zz752vLINgSS HTTP/1.1" 200 -
+2025-05-17 22:19:32,291 - INFO - 127.0.0.1 - - [17/May/2025 22:19:32] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2025-05-17 22:24:13,971 - INFO -  * Detected change in 'D:\\docs\\програмирование\\Diplomka\\nyc-taxi-trip-duration\\nyc-taxi-app\\main.py', reloading
+2025-05-17 22:24:14,088 - INFO -  * Restarting with stat
+2025-05-17 22:24:15,029 - WARNING -  * Debugger is active!
+2025-05-17 22:24:15,030 - INFO -  * Debugger PIN: 484-890-003
+2025-05-17 22:30:33,381 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.68.64:5000
+2025-05-17 22:30:33,381 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-17 22:30:33,382 - INFO -  * Restarting with stat
+2025-05-17 22:30:34,244 - WARNING -  * Debugger is active!
+2025-05-17 22:30:34,246 - INFO -  * Debugger PIN: 484-890-003
+2025-05-17 22:30:44,013 - INFO - 127.0.0.1 - - [17/May/2025 22:30:44] "GET / HTTP/1.1" 200 -
+2025-05-17 22:30:44,059 - ERROR - HTTP ошибка 404: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2025-05-17 22:30:44,061 - INFO - 127.0.0.1 - - [17/May/2025 22:30:44] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-05-17 22:30:50,797 - INFO - 127.0.0.1 - - [17/May/2025 22:30:50] "POST /predict HTTP/1.1" 200 -
+2025-05-17 22:54:15,888 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.68.64:5000
+2025-05-17 22:54:15,888 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-17 22:54:15,889 - INFO -  * Restarting with stat
+2025-05-17 22:54:16,734 - WARNING -  * Debugger is active!
+2025-05-17 22:54:16,736 - INFO -  * Debugger PIN: 752-163-071
+2025-05-17 22:54:28,865 - INFO - 127.0.0.1 - - [17/May/2025 22:54:28] "GET / HTTP/1.1" 200 -
+2025-05-17 22:54:34,078 - INFO - 127.0.0.1 - - [17/May/2025 22:54:34] "GET / HTTP/1.1" 200 -
+2025-05-17 22:54:35,037 - INFO - 127.0.0.1 - - [17/May/2025 22:54:35] "GET / HTTP/1.1" 200 -
+2025-05-17 22:54:35,621 - INFO - 127.0.0.1 - - [17/May/2025 22:54:35] "GET / HTTP/1.1" 200 -
+2025-05-17 22:54:35,929 - INFO - 127.0.0.1 - - [17/May/2025 22:54:35] "GET / HTTP/1.1" 200 -
+2025-05-17 22:54:36,193 - INFO - 127.0.0.1 - - [17/May/2025 22:54:36] "GET / HTTP/1.1" 200 -
+2025-05-17 22:54:36,408 - INFO - 127.0.0.1 - - [17/May/2025 22:54:36] "GET / HTTP/1.1" 200 -
+2025-05-17 22:54:36,580 - INFO - 127.0.0.1 - - [17/May/2025 22:54:36] "GET / HTTP/1.1" 200 -
+2025-05-17 22:54:36,752 - INFO - 127.0.0.1 - - [17/May/2025 22:54:36] "GET / HTTP/1.1" 200 -
+2025-05-17 22:54:37,095 - INFO - 127.0.0.1 - - [17/May/2025 22:54:37] "GET / HTTP/1.1" 200 -
+2025-05-17 22:54:37,620 - INFO - 127.0.0.1 - - [17/May/2025 22:54:37] "GET / HTTP/1.1" 200 -
